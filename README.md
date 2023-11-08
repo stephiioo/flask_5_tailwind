@@ -35,11 +35,13 @@
 
 ### 3. run the following:
 
+#### - python app.py to get a preview of the website
+
 #### - az 
 
 #### - az login --use-device-code then copy the code shown and click the link provided which will open a new tab where you can paste the code that you copied
 
-#### - az webapp up --resource-group <groupname> --name <app-name> --runtime <PYTHON:3.9> --sku <B1> but replace <groupname> with the name of your resource group and <appname> with the name of your app. here is what it should look like: az webapp up --resource-group stephanie504 --name StephaniesCDNApp --runtime "PYTHON|3.9" --sku B1
+#### - az webapp up --resource-group <groupname> --name <app-name> --runtime <PYTHON:3.9> --sku <B1> but replace <groupname> with the name of your resource group and <appname> with the name of your app. here is what it should look like: az webapp up --resource-group steph5042023 --name StephaniesCDNApp --runtime "PYTHON|3.9" --sku B1
 
 ### 4. go to "app services" on azure and click on the link for your app
 
@@ -64,4 +66,4 @@
 
 ## challenges:
 
-### at first when i deployed the app, i got an error message in the newtab that something went wrong
+### there were no significant challenges when running this app
