@@ -64,4 +64,4 @@
 
 ## challenges:
 
-### i did not face any challenges while doing this assignment
+### at first when i deployed the app, i got an error message in the newtab that something went wrong
